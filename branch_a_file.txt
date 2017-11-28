@@ -3,3 +3,5 @@ This is a file for branch a
 This line is added by beta
 
 Here is another line
+
+alpha line
