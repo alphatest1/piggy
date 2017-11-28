@@ -5,3 +5,5 @@ This line is added by beta
 Here is another line
 
 alpha line
+
+another alpha line
